@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D6A4-20B6
+
+ Directory of C:\D Drive\Norfolk Southern\NS 2022\MyLearning\MyProject
+
+10-04-2022  11:04    <DIR>          .
+10-04-2022  11:04    <DIR>          ..
+10-04-2022  11:04                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,601,980,416 bytes free
